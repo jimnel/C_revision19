@@ -1,0 +1,13 @@
+Value of var: 4
+Address of var: 0x7ffcb842d8ec
+
+Now we change the value of var
+Value: 10
+Address: 0x7ffcb842d8ec
+
+Address stored in ptr variable: 0x7ffcb842d8ec
+Value of variable pointed to: 10
+Note *(&var): 10
+
+Value of variable pointed to: 20
+40

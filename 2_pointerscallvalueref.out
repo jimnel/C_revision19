@@ -1,0 +1,10 @@
+
+Using f1 (Call by value)
+Initial: 4
+Final: 14
+Outside Function: 4
+
+Using f2 (Call by reference)
+Initial: 4
+Final: 14
+Outside Function: 14
