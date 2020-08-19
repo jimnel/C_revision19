@@ -1,5 +1,5 @@
 # C_revision19
-Code illustrating different aspects of C
+Code illustrating different aspects of C made for the course U11601 
 
 The '.out' files are the outputs of the corresponding c code
 
